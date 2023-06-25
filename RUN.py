@@ -1,2 +1,2 @@
 import SEX
-SEX.menu()
+SEX.system.menu()
